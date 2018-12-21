@@ -22,11 +22,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setListener() {
+        Log.e(TAG, "setListener: ");
 
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        Log.e(TAG, "onDestroy: ", null);
     }
 }
