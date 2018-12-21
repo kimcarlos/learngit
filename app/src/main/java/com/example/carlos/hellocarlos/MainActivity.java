@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity {
     private void initData() {
         Log.e(TAG, "initData: ", null);
     }
+
+    private void setListener() {
+
+    }
 }
