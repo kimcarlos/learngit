@@ -24,4 +24,9 @@ public class MainActivity extends AppCompatActivity {
     private void setListener() {
 
     }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
 }
