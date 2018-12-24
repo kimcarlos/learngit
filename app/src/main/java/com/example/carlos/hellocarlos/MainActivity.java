@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Log.e(TAG, "initData: " + "version1.0", null);
+        Log.e(TAG, "initData: " + "header", null);
     }
 
     private void setListener() {
