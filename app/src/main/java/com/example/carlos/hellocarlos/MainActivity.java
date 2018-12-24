@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setListener() {
-        Log.e(TAG, "setListener: ");
+        Log.e(TAG, "MainActivity setListener: ");
 
     }
 
